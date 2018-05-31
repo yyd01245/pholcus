@@ -11,7 +11,7 @@ mahonia
 install
 -------
 
-  go get github.com/henrylee2cn/mahonia
+  go get github.com/yyd01245/mahonia
 
 example
 -------
@@ -19,7 +19,7 @@ example
 ```
   package main
   import "fmt"
-  import "github.com/henrylee2cn/mahonia"
+  import "github.com/yyd01245/mahonia"
   func main(){
     enc:=mahonia.NewEncoder("gbk")
     //converts a  string from UTF-8 to gbk encoding.

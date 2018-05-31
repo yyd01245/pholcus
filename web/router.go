@@ -4,7 +4,7 @@ import (
 	"mime"
 	"net/http"
 
-	ws "github.com/henrylee2cn/pholcus/common/websocket"
+	ws "github.com/yyd01245/pholcus/common/websocket"
 )
 
 func init() {

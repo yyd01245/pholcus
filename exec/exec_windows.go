@@ -6,11 +6,11 @@ import (
 	"os/exec"
 	"os/signal"
 
-	"github.com/henrylee2cn/pholcus/config"
+	"github.com/yyd01245/pholcus/config"
 
-	"github.com/henrylee2cn/pholcus/cmd" // cmd版
-	"github.com/henrylee2cn/pholcus/gui" // gui版
-	"github.com/henrylee2cn/pholcus/web" // web版
+	"github.com/yyd01245/pholcus/cmd" // cmd版
+	"github.com/yyd01245/pholcus/gui" // gui版
+	"github.com/yyd01245/pholcus/web" // web版
 )
 
 func run(which string) {

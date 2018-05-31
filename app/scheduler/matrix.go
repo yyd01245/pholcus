@@ -6,11 +6,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/henrylee2cn/pholcus/app/aid/history"
-	"github.com/henrylee2cn/pholcus/app/downloader/request"
-	"github.com/henrylee2cn/pholcus/logs"
-	"github.com/henrylee2cn/pholcus/runtime/cache"
-	"github.com/henrylee2cn/pholcus/runtime/status"
+	"github.com/yyd01245/pholcus/app/aid/history"
+	"github.com/yyd01245/pholcus/app/downloader/request"
+	"github.com/yyd01245/pholcus/logs"
+	"github.com/yyd01245/pholcus/runtime/cache"
+	"github.com/yyd01245/pholcus/runtime/status"
 )
 
 // 一个Spider实例的请求矩阵

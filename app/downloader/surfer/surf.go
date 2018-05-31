@@ -27,8 +27,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/henrylee2cn/goutil"
-	"github.com/henrylee2cn/pholcus/app/downloader/surfer/agent"
+	"github.com/yyd01245/goutil"
+	"github.com/yyd01245/pholcus/app/downloader/surfer/agent"
 )
 
 // Surf is the default Download implementation.
